@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer with a Love for Electronics and Hardware Design</h3>
 
 - 🔭 I’m currently learning [CI/CD with AWS](https://github.com/sangeeth108/devops)
-<h3 align="center">Full Stack Developer with a Love for Electronics and Hardware Design</h3>
+<h5>My collaborative works and contributions:</h5>
 
 - 👯 My [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
 
