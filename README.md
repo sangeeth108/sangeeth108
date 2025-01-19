@@ -7,6 +7,9 @@
 - 👯  [ExpressJs Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
 - 👯  [Flutter Travel App](https://github.com/YeharaMewan/Travel_App)
 - 👯  [SpringBoot Library Booking System](https://github.com/sangeeth108/libraray-app)
+- 👯  [ML-Model Prediction-of-compressive-strength-of-concrete](https://github.com/YeharaMewan/Prediction-of-compressive-strength-of-concrete-ML-model)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
