@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer with a Love for Electronics and Hardware Design</h3>
 
 - 🔭 I’m currently learning [CI/CD with AWS](https://github.com/sangeeth108/devops)
-
-- 👯 My collaborative works and contributions [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
+<h3 align="center">My collaborative works and contributions</h3>
+- 👯 [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
