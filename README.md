@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
-<h3 align="center">Full Stack Developer with a Love for Electronics and Hardware Design</h3>
+<h3 align="center">Full Stack Developer with a Passion for 3D Design and Animation</h3>
 
 <h4>My collaborative works and contributions:</h4>
 
