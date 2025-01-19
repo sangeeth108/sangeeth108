@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
-<h3 align="center">Full Stack Developer with a Love for Electronics and Hardware Design</h3>
+<h3 align="center">Full Stack Developer with a Passion for 3D Design and Animation</h3>
 
+<h4>My collaborative works and contributions:</h4>
+
+- 👯  [ExpressJs Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
+- 👯  [Flutter Travel App](https://github.com/YeharaMewan/Travel_App)
+- 👯  [SpringBoot Library Booking System](https://github.com/sangeeth108/libraray-app)
+- 👯  [ML-Model Prediction-of-compressive-strength-of-concrete](https://github.com/YeharaMewan/Prediction-of-compressive-strength-of-concrete-ML-model)
+- 👯  [AWS Devops](https://github.com/sangeeth108/devops)
 - 🔭 I’m currently learning [CI/CD with AWS](https://github.com/sangeeth108/devops)
-
-- 👯 My collaborative works and contributions [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
-
 - 📫 How to reach me **thisaranga108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@Itstucreations/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itstucreations" height="30" width="40" /></a>
-<a href="https://www.flickr.com/photos/198904952@N03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/flicker.svg" alt="itstucreations" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
