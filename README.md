@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning [CI/CD with AWS](https://github.com/sangeeth108/devops)
 
 - 👯 My collaborative works and contributions [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
-- [Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
+[Institute Management System](https://github.com/yasiith/Nethu_Education_Institute_Management_System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
