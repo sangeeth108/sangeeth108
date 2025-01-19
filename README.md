@@ -11,8 +11,6 @@
 
 🌱 I’m currently learning **CI/CD with Jenkins and AWS**
 
-<!-- Image on the right -->
-<img align="right" alt="Coding" width="500" src="https://static.vecteezy.com/system/resources/thumbnails/022/328/336/small_2x/isometric-desktop-computer-coding-programming-technology-programming-concept-technology-animation-transparent-background-with-alpha-channel-free-video.jpg">
 
 <h4>My collaborative works and contributions:</h4>
 <ul>
