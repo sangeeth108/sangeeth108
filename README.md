@@ -9,10 +9,7 @@
 - 👯  [ML-Model Prediction-of-compressive-strength-of-concrete](https://github.com/YeharaMewan/Prediction-of-compressive-strength-of-concrete-ML-model)
 - 👯  [AWS Devops](https://github.com/sangeeth108/devops)
 - 🔭 I’m currently learning [CI/CD with AWS](https://github.com/sangeeth108/devops)
-
-
-
-
+- 📫 How to reach me **thisaranga108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
